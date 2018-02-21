@@ -9,3 +9,4 @@ Python3
 Write a brief explanation about how your code works here.
 
 I created a function "hello_world" which when any string [text] is passed, it returns "Hello [text]!"
+Then it applies the function with each argument.
